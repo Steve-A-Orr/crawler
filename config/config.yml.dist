@@ -1,0 +1,8 @@
+database:
+  adapter: 'postgresql'
+  database: 'crawler'
+  username: 'root'
+  password:
+  host: '127.0.0.1'
+  encoding: 'utf8'
+  pool: 10
