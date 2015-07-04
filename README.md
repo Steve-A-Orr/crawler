@@ -12,7 +12,7 @@
 Available (demo) modules:
 
 * imdb_serie
-* imdb_episoe
+* imdb_episode
 
 
 
