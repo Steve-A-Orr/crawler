@@ -15,7 +15,6 @@ module Crawler
 
     def init_agent
       @agent = Mechanize.new
-      # @agent.set_proxy('w3c.widzew.net', 8080)
 
       # disabling keep alive will make sure we can easier switch circuit in tor
       @agent.keep_alive = false
